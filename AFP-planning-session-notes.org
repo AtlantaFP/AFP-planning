@@ -1,0 +1,174 @@
+Atlanta Functional Programming Meetup Planning Meeting
+30 Aug 2017
+Attended: shapr, bugrum, dagmar
+
+Please review and comment.
+
+Created in org-mode.
+
+* Sponsorship
+** Benefits to sponsor
+- Build awareness among relatively advanced coders (and code-related managers) of interest and need of sponsor for technologists
+- Affect brand of sponsor among coders and tech community
+- names of potential employees (if they provide them in response to branding)
+- chance to explain needs of sponsor to coders
+- chance to get informal feedback from coders
+- other communications goals
+** Offerings
+*** Bronze - $50 per month for six months
+- goal: four sponsors
+- branding of slides at beginning of meetups
+- branding on Meetup
+- by name mention by speaker
+*** Silver - $150 per month for six months
+- goal: three sponsors
+- bronze, plus
+- one or two slides
+  - explanation of tech stack of sponsor
+  - announcement of specific opportunities at sponsor for coders or others
+- distribution of small swag
+*** Gold - $ 250 per month for six months
+- goal: one sponsor
+- silver, plus
+- one or two (more) slides
+- one ten minute kickoff presentation per half-year
+** Use of funds
+  - food and beverages for attendees
+  - venue-related fees
+  - honoraria for guest speakers
+** Potential Sponsors
+- Weather Channel
+- UPS
+- Delta
+- Pindrop
+- Chick-fil-A
+- Home Depot
+- Level3
+* Venues
+** TIY We can use in September and October
+** Ram: can we get a venue at Tech because Ram is a student
+** Cenergy? How to approach
+** Manny's
+** Tech Square (bad acoustics, few outlets)
+** Food Court (simplifies refreshments, but noisy, no guarantee of seats, no presentations)
+** Dancing goats for study groups
+* Program:
+** Weekly Haskell sessions centered on Haskell Book
+** Weekly Lisp sessions on SICP
+** Monthly agnostic Meetups
+** Cooperate with other Meetups in Atlanta (Python, React, Ruby, Elm, PHP)
+* How to enjoy wisdom of:
+- Donald Mead
+
+* Actions: (for all, unless addressed by name)
+- [ ] Review this doc
+- [ ] brainstorm other potential sponsors
+  - companies that need sophisticated systems software
+  - companies that want to be famous as providing great software
+  - companies wanting to promote brand as tech-savvy or techy-lifestyle-supporting
+  - [ ] OTHER?
+- [ ] let us know about your great ideas for this
+- [ ] @bugrum - find out if you can get a venue at GT
+- [ ] @dagmar - contact Donald Mead and brainstorm
+- [ ] comment on sponsorship "plan"
+  - [ ] other benefits we can provide to sponsors?
+  - [ ] other food or beverage sponsors? 
+    - coffee?
+    - Coca-Cola?
+    - Pepsi?
+    - companies that want to cater to coders?
+  - [ ] are sponsorship levels insane?
+- [ ] brainstorm other venues
+  - along Marta seems useful
+  - [ ] any venues that might want to be seen as nerdicool?
+- [ ] Guest speakers list?
+  - anything else we can offer guest speakers?
+  - IMAX tickets?
+  - aquarium?
+  - cyclorama?
+
+Atlanta Functional Programming Meetup Planning Meeting
+30 Aug 2017
+Attended: shapr, bugrum, dagmar
+
+Please review and comment.
+
+* Sponsorship
+** Benefits to sponsor
+- Build awareness among relatively advanced coders (and code-related managers) of interest and need of sponsor for technologists
+- Affect brand of sponsor among coders and tech community
+- names of potential employees (if they provide them in response to branding)
+- chance to explain needs of sponsor to coders
+- chance to get informal feedback from coders
+- other communications goals
+** Offerings
+*** Bronze - $50 per month for six months
+- goal: four sponsors
+- branding of slides at beginning of meetups
+- branding on Meetup
+- by name mention by speaker
+*** Silver - $150 per month for six months
+- goal: three sponsors
+- bronze, plus
+- one or two slides
+  - explanation of tech stack of sponsor
+  - announcement of specific opportunities at sponsor for coders or others
+- distribution of small swag
+*** Gold - $ 250 per month for six months
+- goal: one sponsor
+- silver, plus
+- one or two (more) slides
+- one ten minute kickoff presentation per half-year
+** Use of funds
+  - food and beverages for attendees
+  - venue-related fees
+  - honoraria for guest speakers
+** Potential Sponsors
+- Weather Channel
+- UPS
+- Delta
+- Pindrop
+- Chick-fil-A
+- Home Depot
+* Venues
+** TIY We can use in September and October
+** Ram: can we get a venue at Tech because Ram is a student
+** Cenergy? How to approach
+** Manny's
+** Tech Square (bad acoustics, few outlets)
+** Food Court (simplifies refreshments, but noisy, no guarantee of seats, no presentations)
+** Dancing goats for study groups
+* Program:
+** Weekly Haskell sessions centered on Haskell Book
+** Weekly Lisp sessions on SICP
+** Monthly agnostic Meetups
+** Cooperate with other Meetups in Atlanta (Python, React, Ruby, Elm, PHP)
+* How to enjoy wisdom of:
+- Donald Mead
+
+* Actions: (for all, unless addressed by name)
+- [ ] Review this doc
+- [ ] brainstorm other potential sponsors
+  - companies that need sophisticated systems software
+  - companies that want to be famous as providing great software
+  - companies wanting to promote brand as tech-savvy or techy-lifestyle-supporting
+  - [ ] OTHER?
+- [ ] let us know about your great ideas for this
+- [ ] @bugrum - find out if you can get a venue at GT
+- [ ] @dagmar - contact Donald Mead and brainstorm
+- [ ] comment on sponsorship "plan"
+  - [ ] other benefits we can provide to sponsors?
+  - [ ] other food or beverage sponsors? 
+    - coffee?
+    - Coca-Cola?
+    - Pepsi?
+    - companies that want to cater to coders?
+  - [ ] are sponsorship levels insane?
+- [ ] brainstorm other venues
+  - along Marta seems useful
+  - [ ] any venues that might want to be seen as nerdicool?
+- [ ] Guest speakers list?
+  - anything else we can offer guest speakers?
+  - IMAX tickets?
+  - aquarium?
+  - cyclorama?
