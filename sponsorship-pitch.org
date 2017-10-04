@@ -1,0 +1,23 @@
+According to FastCompany, each year there are  Each year, there are more than 150,000 new computing jobs in the U.S., but only 40,000 computer science graduates. Seasoned, highly skilled programmers are even rarer.  
+
+If you have need for programmers that are expert, interested in staying abreast of the leading edges of programming, and driven to energetically pursue new knowledge, we can help you get in touch with them efficently.
+
+The Atlanta Functional Programming Meetup is a new group that was started to meet interest in functional programming languages and how the functional paradigm is being extended to languages that are not explicitly functional.  We have ove 240 members, and are growing at a clip.
+
+We are now building out, by establishing, in addition to our regular meetups, a website, organizational infrastructure, a schedule of study sessions, and presentations by leading lights in the field.
+
+By sponsoring the Atlanta Functional Programming Meetup, you will be able to 
+
+- meet a self-selected group of highly-skilled coders that are interested in staying abreast of a leading paradigm in computing, and who take (and have) the time to attend our meetup to learn more and network;
+
+- communicate with them, letting them know that you are actively seeking candidates, or letting them know that your organization is one that is aware of the benefits of the technologies they are pursuing. This communication can be online, via our communications channels, and offline, by having your message delivered as part of our meetups, or by attending and making a brief, in-person explanation of your company’s attractiveness, interesting products and services, and opportunities for programmers; and
+
+- provide branding, on our website, on our Meetup page, on Meetup introductory slides, and via physical mementoes (“swag”).
+
+We have three tiers of sponsorship, and would like to discuss how we could work together to help your organization.
+
+P.S., our unofficial tagline is "we draw a crowd probably overqualified for their current jobs!"
+
+Please contact Rupert at xxxx@AtlantaFP.something, or at +!-404-555-1212. 
+
+We put the “tion” in functional!
