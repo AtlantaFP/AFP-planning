@@ -1,0 +1,93 @@
+* Input requested
+- [ ] graphics elements
+I suggest "@" and "λ", and "FP"
+- [ ] colors
+I suggest dark crimson and gold. like Iron Man
+
+* Additional input requested
+
+- [ ] identity kit elements 
+  - [ ] logo, each in color and grayscale)
+    - [ ] SVG
+    - [ ] Raster
+      - [ ] Website
+      - [ ] Meetup
+      - [ ] Youtube
+    - [ ] best format for 
+      - [ ] business cards
+      - [ ] flyers
+      - [ ] letterhead
+  - points of contact
+  - Positioning Statement 
+     - a concise description of your target market
+     - how your brand will be perceived within that market.
+  - Brand Promise
+     - What your brand is committed to delivering to your audience.
+  - Brand Personality Traits
+     - Human characteristics associated with your brand. These make your brand relatable to your audience. E.g., If your audience is rugged outdoors adventurers, some brand traits could be rugged, exciting, and tough.
+  - Tagline
+Communicate your unique value proposition in a short, catchy line.
+
+
+* Text of message to those expressing interest in helping with logo
+
+Happily, I have received a number of expressions of interest.  THANK YOU!
+
+However, to avoid abusing goodwill, we will ask for assistance from only one party.
+
+I am very open to sharing work in progress with others, but this will also depend on the wishes of the party selected. In any case, I consider you to have great initiative, and would be delighted to meet you, welcome you to Freeside Atlanta (my "home" hackerspace), and meet you at Atlanta Functional Programming meetups and events.
+
+
+This is my initial input only.  I'd like to know if any of this is irrelevant, and if any additional pieces of information would be needed or would help reduce work.
+
+--> Please do no work other than discussing this message yet. I am still waiting on input from my comrades in the Atlanta Functional Programming Meetup.
+
+Also, please let me know what you would ask for in return for your services, since we are cash-poor (but SO, SO GOOD-LOOKING)
+
+Best Regards,
+
+Jud Taylor
+
+--- My INITIAL input below - outlined in ORG-mode on emacs
+
+* Goal
+Useful logo for Atlanta Functional Programming (meetup group)
+* Uses of logo
+** Initial
+- Meetup pages
+- Youtube channel
+- Google hangouts page
+** Near-term
+- Website
+** Further out
+- business cards
+- flyers
+- posters
+* Graphical Elements
+Characters:
+- "@" 
+- "λ"
+- "FP"
+* Colors
+- Dark Crimson
+- Gold
+* Grayscale
+* File formats
+- SVG
+- As useful for web
+- as useful for business cards and stationary
+- as useful for screen printing
+* Sizes
+- As appropriate for "Initial" uses listed above
+* Branding considerations
+** Target Audiences
+- Programmers who view themselves as highly skilled and "leading edge"
+- Managers who work with, or want to work with, such programmers
+** Perception
+AFP is an approachable, easy to use source of information, insights, and contacts for and to highly skilled programmers.
+** Promise
+AFP delivers information, insights, and a venue for contacts for highly skilled programmers and those who want to understand the value of the functional paradigm.
+** Personality traits
+Inquisitive, approachable, generous, attentive to detail, good-humored
+** Tagline
+Don't have one yet
